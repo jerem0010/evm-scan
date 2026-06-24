@@ -106,18 +106,3 @@ cast call 0xContract balanceOf(address) 0xUser --rpc-url <RPC_URL>
 - Complex types may require manual care
 - Write calls require wallet/private-key handling through Foundry configuration
 
-## Learning Goals
-
-This project helped me practice:
-
-- Rust CLI development
-- Calling external tools from Rust
-- EVM bytecode inspection
-- Function selector extraction
-- Smart contract interaction through Foundry
-- Security-oriented contract reconnaissance
-
-## Disclaimer
-
-This tool is for educational and research purposes only.  
-Always verify what a transaction does before broadcasting it.
